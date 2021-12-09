@@ -17,6 +17,7 @@ This is the instruction for **Road Following by Classification** exmaple in NCKU
 ## Data Collection
 1. Navigate to `workspace/jetbot/notebooks/road_following_by_classification` directory in the file browser.
 1. Open `data_collection.ipynb`
+1. Open [`data_collection.ipynb` in Google Colab](https://colab.research.google.com/github/naoya1110/road_following_by_classification/blob/main/train_model.ipynb)
 1. Perform data collection by following instructions in the notebook.
 1. Download `dataset.zip` to your local PC.
 
