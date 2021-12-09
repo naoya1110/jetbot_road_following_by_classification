@@ -4,7 +4,7 @@ This is the instruction for **Road Following by Classification** exmaple in NCKU
 
 ## Setup
 1. Log in to your JetBot from a web browser.
-1. Open a terminal. You must be in `workspace` directory now. 
+1. Open a terminal. Your current working directory must be `workspace` now. 
 1. Then navigate to `workspace/jetbot/notebooks` directory.
     ```
     $ cd jetbot/notebook
