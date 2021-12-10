@@ -7,7 +7,7 @@ This is the instruction for **Road Following by Classification** exmaple in NCKU
 1. Open a terminal. Your current working directory must be `workspace` now. 
 1. Then navigate to `workspace/jetbot/notebooks` directory.
     ```
-    $ cd jetbot/notebook
+    $ cd jetbot/notebooks
     ```
 1. Clone this repo.
     ```
