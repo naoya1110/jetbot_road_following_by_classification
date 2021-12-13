@@ -29,9 +29,5 @@ This is the instruction for **Road Following by Classification** exmaple in NCKU
 1. Download `best_model.pth` to your local PC
 
 ## Live Demo
-1. Install Matplotlib, if not installed yet. Open a terminal and execute the command. This takes for a while.
-    ```
-    $ pip3 install matplotlib
-    ```
 1. Upload `best_model.pth` to `workspace/jetbot/notebooks/road_following_by_classification` directory in your JetBot
 1. Run your JetBot with the trained model by following the instructions in the notebook.
