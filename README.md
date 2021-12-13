@@ -9,7 +9,7 @@ This is the instruction for **Road Following by Classification** exmaple in NCKU
     ```
     $ cd jetbot/notebooks
     ```
-1. Clone this repo.
+1. Clone this repository.
     ```
     $ git clone https://github.com/naoya1110/road_following_by_classification.git
     ```
