@@ -2,6 +2,8 @@
 
 This is the instruction for **Road Following by Classification** exmaple in NCKU-NITKC AI Robotics Lab. 
 
+YouTube : https://youtu.be/KTr65GylSZo
+
 ## Setup
 1. Log in to your JetBot from a web browser.
 1. Open a terminal. Your current working directory must be `workspace` now. 
