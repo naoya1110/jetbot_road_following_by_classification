@@ -25,7 +25,7 @@ YouTube : https://youtu.be/KTr65GylSZo
 ## Model Training
 1. Open `train_model.ipynb` in Google Colab. There are two options.
     - **Option 1** Download `train_model.ipynb` from `road_following_by_classification` directory to your local PC. Then upload it to your Google Drive.
-    - **Option 2** [Click here](https://colab.research.google.com/github/naoya1110/road_following_by_classification/blob/main/train_model.ipynb) to open `train_model.ipynb` in Google Colab
+    - **Option 2** Open [train_model.ipynb in Google Colab](https://colab.research.google.com/github/naoya1110/road_following_by_classification/blob/main/train_model.ipynb)
 1. Upload `dataset.zip` by using the file browser in Google Colab.
 1. Train a model with Google Colab by following instructions in the notebook.
 1. Download `best_model.pth` to your local PC
