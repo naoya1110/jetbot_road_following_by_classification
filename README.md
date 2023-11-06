@@ -6,14 +6,17 @@ YouTube : https://youtu.be/KTr65GylSZo
 
 ## Setup
 1. Log in to your JetBot from a web browser.
-1. Open a terminal. Your current working directory must be `workspace` now. 
-1. Then navigate to `workspace/jetbot/notebooks` directory.
+1. Open a terminal and log in via ssh.
     ```
-    $ cd jetbot/notebooks
+    ssh jetbot@0.0.0.0
+    ```
+1.  Navigate to `workspace/jetbot/notebooks` directory.
+    ```
+    cd jetbot/notebooks
     ```
 1. Clone this repository.
     ```
-    $ git clone https://github.com/naoya1110/road_following_by_classification.git
+    git clone https://github.com/naoya1110/road_following_by_classification.git
     ```
 
 ## Data Collection
