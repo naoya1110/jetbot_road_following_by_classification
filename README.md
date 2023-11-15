@@ -2,7 +2,7 @@
 
 This is the instruction for **Road Following by Classification** exmaple in NCKU-NITKC AI Robotics Lab. 
 
-YouTube : https://youtu.be/KTr65GylSZo
+YouTube : (https://www.youtube.com/watch?v=96u4DM-cjkE)
 
 ## Setup
 1. Log in to your JetBot from a web browser.
